@@ -1,0 +1,25 @@
+# === Core ===
+python-dotenv==1.0.1
+pymongo==4.7.1
+dnspython==2.4.2
+streamlit==1.33.0
+
+# === OCR & Image Processing ===
+easyocr==1.7.2
+numpy==1.26.4
+Pillow==10.2.0
+opencv-python-headless==4.11.0.86
+scikit-image==0.25.2
+imageio==2.37.0
+tifffile==2025.3.30
+lazy-loader==0.4
+
+# === LangChain + LLM ===
+langchain==0.1.17
+langchain-core==0.1.53
+langchain-community==0.0.32
+langchain-groq==0.0.3
+tiktoken==0.6.0
+
+# === Testing (Optional but good for CI) ===
+pytest==8.1.1
