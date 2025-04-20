@@ -1,24 +1,48 @@
-# === Core ===
-python-dotenv==1.0.1
-pymongo==4.7.1
-dnspython==2.4.2
-streamlit==1.33.0
+# # === Core ===
+# python-dotenv==1.0.1
+# pymongo==4.7.1
+# dnspython==2.4.2
+# streamlit==1.33.0
 
-# === OCR & Image ===
-easyocr==1.7.2
-numpy==1.26.4
-Pillow==10.2.0
-opencv-python-headless==4.11.0.86
-scikit-image==0.25.2
-imageio==2.37.0
-tifffile==2025.3.30
-lazy-loader==0.4
+# # === OCR & Image ===
+# easyocr==1.7.2
+# numpy==1.26.4
+# Pillow==10.2.0
+# opencv-python-headless==4.11.0.86
+# scikit-image==0.25.2
+# imageio==2.37.0
+# tifffile==2025.3.30
+# lazy-loader==0.4
 
-# === LangChain & LLM ===
-langchain==0.1.17
-langchain-core==0.1.53
-langchain-community==0.0.32
-langchain-groq==0.1.0
+# # === LangChain & LLM ===
+# langchain==0.1.17
+# langchain-core==0.1.53
+# langchain-community==0.0.32
+# langchain-groq==0.1.0
 
-# === Dev tools (optional) ===
-watchdog==4.0.0
+# # === Dev tools (optional) ===
+# watchdog==4.0.0
+
+
+
+# Core
+streamlit
+python-dotenv
+pymongo
+dnspython
+
+# OCR
+easyocr
+numpy
+Pillow
+opencv-python-headless
+scikit-image
+imageio
+tifffile
+lazy-loader
+
+# LLM and LangChain
+langchain
+langchain-core
+langchain-community
+langchain-groq>=0.1.0  # no strict pinning to avoid 0.0.3 error
