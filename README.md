@@ -1,7 +1,7 @@
 # 📘 Plate Parser: A Modular LLM-RAG System for Intelligent Menu Digitization and Food-Tech Q&A
 
 **🔗 [Live Demo](https://plateparser.streamlit.app/)** 
-[![Demo Video](./assets/demo_thumbnail.png)](https://github.com/easycase00/Plate_Parser_Menu_AI/blob/main/Demo.mov)
+**🎥 [![Demo Video](./assets/demo_thumbnail.png)](https://github.com/easycase00/Plate_Parser_Menu_AI/blob/main/Demo.mov)
 
 
 ---
