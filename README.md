@@ -137,8 +137,6 @@ Required via `.streamlit/secrets.toml`:
 *Plate Parser: An LLM-Driven Menu Intelligence Platform Using RAG and OCR*  
 Indiana University, Data Science
 
-- 🔗 [GitHub: Plate_Parser_Menu_AI](https://github.com/easycase00/Plate_Parser_Menu_AI)
-- 🔗 [Live App: plateparser.streamlit.app](https://plateparser.streamlit.app/)
 
 ### 🔍 Inspired by:
 
