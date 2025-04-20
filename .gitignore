@@ -1,26 +1,38 @@
-# Python
+# Byte-compiled / optimized / DLL files
 __pycache__/
-*.pyc
-*.pyo
-*.pyd
-*.sqlite3
+*.py[cod]
+*$py.class
 
-# Virtual environment
+# Environments
 .venv/
 .env
 
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# PyInstaller
+*.manifest
+*.spec
+
+# VS Code
+.vscode/
+
 # Streamlit secrets
 .streamlit/secrets.toml
-
-# IDE config
-.vscode/
-.idea/
-
-# OS-specific
-.DS_Store
-Thumbs.db
-
-# Data & cache
-data/
-*.log
-*.cache/
