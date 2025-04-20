@@ -18,7 +18,7 @@ lazy-loader==0.4
 langchain==0.1.17
 langchain-core==0.1.53
 langchain-community==0.0.32
-langchain-groq==0.0.3
+langchain-groq==0.1.0
 tiktoken==0.6.0
 
 # === Testing (Optional but good for CI) ===
