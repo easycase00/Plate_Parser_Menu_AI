@@ -1,9 +1,11 @@
 from pymongo import MongoClient
-from dotenv import load_dotenv
+#from dotenv import load_dotenv
 import os
 from urllib.parse import quote_plus
+import streamlit as st
+from urllib.parse import quote_plus
 
-load_dotenv()
+#load_dotenv()
 
 username = quote_plus(os.getenv("MONGO_USERNAME"))
 password = quote_plus(os.getenv("MONGO_PASSWORD"))
