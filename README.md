@@ -126,10 +126,10 @@ Required via `.streamlit/secrets.toml`:
 
 ## 🧪 Future Enhancements
 
-- 🔤 **Multilingual OCR** with translation
-- 🧠 **Neural entity linking** for nutrition tags (e.g., sodium, carbs)
-- 📊 **Embedding-based search** using vector DBs like **Qdrant**, **Pinecone**, or **Chroma**
-- 🖼️ **Layout-aware parsing** with models like **LayoutLM** or **Donut**
+- **Multilingual OCR** with translation
+- **Neural entity linking** for nutrition tags (e.g., sodium, carbs)
+- **Embedding-based search** using vector DBs like **Qdrant**, **Pinecone**, or **Chroma**
+- 🖼**Layout-aware parsing** with models like **LayoutLM** or **Donut**
 
 ---
 
